@@ -1,0 +1,4 @@
+gdown==4.6.4
+numpy==1.23.3
+pandas==1.5.1
+scikit-learn==1.2.0
