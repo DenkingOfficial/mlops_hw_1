@@ -30,3 +30,5 @@ CMD ["uvicorn", "app:app", "--host=0.0.0.0", "--reload"]
 Чтобы собрать проект, отправить на DockerHub и запустить его используйте build.sh
 
 При отправке на DockerHub присваивается тэг вида branch_commit
+
+![image](https://user-images.githubusercontent.com/38957619/230889937-27267fb8-1a5a-466d-833b-ef4f65a5331b.png)
