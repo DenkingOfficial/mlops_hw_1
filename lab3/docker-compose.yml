@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  app:
+    image: cat_breed_classifier
+    build: https://github.com/DenkingOfficial/cat_breed_classifier.git#main
+    ports:
+      - "8000:8000"
